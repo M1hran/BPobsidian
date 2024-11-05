@@ -1,0 +1,2 @@
+- involved in [[cell]] division 
+- allows (ancors) [[spindle fiber]]s to work in

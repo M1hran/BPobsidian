@@ -1,0 +1,2 @@
+is the site of [[protein]] synthesis 
+is rough because it has [[ribosome]]s on the surface which produce [[polypeptides]] and send them into the [[lumen]] of the [[cisternae]] which are packaged and sent off in [[transport vesicles]] to the [[golgi apparatus]] 

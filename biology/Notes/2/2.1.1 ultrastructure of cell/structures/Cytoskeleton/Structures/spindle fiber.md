@@ -1,0 +1,1 @@
+[[spindle fiber]]s are used in [[mitosis]] to pull apart [[DNA]] [[chromosome]]s in the [[nucleus]]

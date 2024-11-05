@@ -1,0 +1,4 @@
+- hair like extensions that protrude from some [[cell]]s 
+- can be mobile or stationary 
+    - stationary have important functions in [[sensory]] [[organ]]s such as the [[nose]]
+    - mobile cilia can beat rhythmically creating a current an cause adjacent objects or liquids to move. Eg in the [[trachea]] to move [[mucus]] away from [[lung]]s or in the [[fallopian tube]]s to move [[egg cell]]s from the [[ovary]] to the [[uterus]]
