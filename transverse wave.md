@@ -1,0 +1,5 @@
+- [[wave]]s where direction of vibration (oscillation) of particles is perpendicular to the direction of in which wave (or energy) travels.
+- examples:
+	- [[electromagnetic wave]]s 
+	- [[secondary seismic wave]]s
+	- [[wave]] on a string
